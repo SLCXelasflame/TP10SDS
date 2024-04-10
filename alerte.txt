@@ -1,0 +1,25 @@
+Référence des stocks vides
+Référence : 231547896	 | Nom : classeur
+Référence : 213456987	 | Nom : boite_punaises
+Référence : 231698547	 | Nom : boite_trombones
+Référence : 321469785	 | Nom : ramette_feuillesA4
+Référence : 312589647	 | Nom : boite_100enveloppes11*21
+Référence : 312698547	 | Nom : boite_100enveloppes30*21
+Référence : 321789654	 | Nom : boite_100enveloppes11*13
+Référence : 123548796	 | Nom : crayon
+Référence : 231546987	 | Nom : agrafeuse
+Référence : 132658974	 | Nom : feutre
+Référence : 132569874	 | Nom : regle
+Référence : 132547896	 | Nom : cahier
+Référence : 231547896	 | Nom : classeur
+Référence : 213456987	 | Nom : boite_punaises
+Référence : 231698547	 | Nom : boite_trombones
+Référence : 321469785	 | Nom : ramette_feuillesA4
+Référence : 312589647	 | Nom : boite_100enveloppes11*21
+Référence : 312698547	 | Nom : boite_100enveloppes30*21
+Référence : 321789654	 | Nom : boite_100enveloppes11*13
+Référence : 123548796	 | Nom : crayon
+Référence : 231546987	 | Nom : agrafeuse
+Référence : 132658974	 | Nom : feutre
+Référence : 132569874	 | Nom : regle
+Référence : 132547896	 | Nom : cahier
